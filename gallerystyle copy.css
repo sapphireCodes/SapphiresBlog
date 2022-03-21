@@ -1,0 +1,107 @@
+body{
+	background-color:#d8c8de;}
+	h1{
+	text-align:center;
+	color:brown;
+	font-family:Jokerman}
+	h2{
+		text-align: center;
+		margin:auto;
+		display: block;
+		width:100%;
+		float:left;
+	}
+	
+	.header_section{
+	align-content:center;
+	margin:auto;
+	width:100px;
+	height:20%;}
+	
+	img{
+	width:90vw;
+	height:20vh;
+	border:5px dotted orange;
+margin:auto;}
+	
+	p{
+	text-align:center;
+	color:orange;
+	font-family: 'Lobster', cursive;
+font-family: 'Source Code Pro', monospace;
+	font-size:120vw;}
+	
+	#headingline{
+	font-weight:bolder;}
+	.content{
+		display:block;
+		margin:auto;
+		justify-content:center;
+		align-content: center;
+	
+	}
+	.media_div2,.media_div{
+		margin:40px 5%;
+		
+	
+	border: 1px solid #ccc;
+    background-image:radial-gradient(rgb(98, 183, 223),pink);
+    box-shadow:20px 20px 50px 10px #888888;
+    border-radius:20%;
+    padding:2%;
+    align-content: center;
+	width: 30vw;
+	height:auto;
+
+display:inline-block;
+overflow: hidden;
+height:60vh;
+justify-content: center;
+	}
+	.media_div img{
+	width: 95%;
+	height: auto;
+    border-radius: 10%;
+margin:12px 2px auto;}
+	
+	.media_div p{
+	padding: 5px;
+	text-align: center;
+color:crimson;
+font-family: 'Lobster', cursive;
+font-family: 'Source Code Pro', monospace;
+font-size: 22px;}
+	video{
+	width:95%;
+	height:190px;
+	border:5px dotted orange;
+    border-radius: 10%;
+    margin:12px 2px auto;}
+	
+	iframe{
+	width:95%;
+	height:200;
+	border:5px dotted orange;
+    border-radius: 10%;
+    margin:12px 2px auto;}
+
+    .media_div1{
+        margin: 5px;
+        margin-bottom:40px;
+        border: 1px solid #ccc;
+        background-image:radial-gradient(orange,pink);
+        box-shadow:rgb(243, 76, 109) 2px 5px;
+        border-radius:20%;
+        padding:12px;
+        float: left;
+        align-content: center;
+        width: 45%;
+        height:auto;}
+@media screen and (max-width:600px){
+	
+}
+
+		/*smart tvs*/
+@media screen and (min-width:2400px) {
+	
+}

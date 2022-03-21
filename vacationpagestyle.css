@@ -1,0 +1,35 @@
+body{
+    background-color:burlywood ;
+    font-family: Viner Hand ITC;
+}
+h1{
+    background-color: cadetblue;
+    text-align:center;
+    font-family:Bradley Hand ITC;
+    border:crimson 10px groove;
+}
+h2{
+    background-color: coral;
+    text-align:center;
+    border:2px solid crimson;
+    border-radius:20%;
+}
+h3{
+    background-color: cadetblue;
+    text-align:center;
+}
+img{
+    border:2px dotted crimson;
+    border-radius:50%;
+    width:300px;
+    height:auto;
+    float:right;
+}
+p{
+    background-color: coral;
+    font-size:150%;
+    width:50%;
+    margin:1%;
+    padding:10%;
+    border-radius:20%;
+}
